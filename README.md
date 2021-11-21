@@ -1,8 +1,3 @@
-# compeng2sh4-fall2021-lab4-starter
+# Cpp Project 4 | COMPENG Lab 4
 
-
-Section: [L01]
-
-MacID: [odujinro]
-
-StudentID: [400317700]
+Completed Computer Engineering Lab 4 Applications using C programming language
